@@ -1,0 +1,8 @@
+#togswtimg1 {
+  position: relative;
+  top: 100;
+  left: 100;
+  transform-box: fill-box; /* Use element's own bounding box */
+  transform-origin: center; /* Scale from center */
+  transform: scale(0.25); /* Double size */
+}
