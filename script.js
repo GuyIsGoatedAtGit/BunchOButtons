@@ -1,9 +1,5 @@
 // Array of image file paths
-const images = [
-  "images/togswt1.svg",
-  "images/togswt2.svg",
-  "images/togswt3.svg",
-];
+const images = ["images/togswt1.svg", "images/togswt2.svg"];
 let currentIndex = 0;
 
 function flipImage() {

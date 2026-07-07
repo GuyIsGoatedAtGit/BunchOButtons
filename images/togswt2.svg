@@ -7,44 +7,15 @@
    viewBox="0 0 67.733341 25.399998"
    version="1.1"
    id="svg1"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs1">
-    <linearGradient
-       id="linearGradient30">
-      <stop
-         style="stop-color:#28dd3b;stop-opacity:1;"
-         offset="0"
-         id="stop30" />
-      <stop
-         style="stop-color:#27dd3b;stop-opacity:1;"
-         offset="0.40821916"
-         id="stop32" />
-      <stop
-         style="stop-color:#dddddd;stop-opacity:1;"
-         offset="0.56849319"
-         id="stop33" />
-      <stop
-         style="stop-color:#dddddd;stop-opacity:1;"
-         offset="1"
-         id="stop31" />
-    </linearGradient>
-    <linearGradient
-       xlink:href="#linearGradient30"
-       id="linearGradient31"
-       x1="67.215485"
-       y1="171.89322"
-       x2="134.94882"
-       y2="171.89322"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
+     id="defs1" />
   <g
      id="layer1"
      transform="translate(-67.215486,-159.19322)">
     <rect
-       style="fill:url(#linearGradient31);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-miterlimit:36.2"
+       style="fill:#37dd49;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-miterlimit:36.2"
        id="rect28"
        width="67.433334"
        height="25.099998"
@@ -54,7 +25,7 @@
     <circle
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-miterlimit:36.2;stroke-dasharray:none"
        id="path30"
-       cx="101.08215"
+       cx="122.30077"
        cy="171.89322"
        r="9.852232" />
   </g>
