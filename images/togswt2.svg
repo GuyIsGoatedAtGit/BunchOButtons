@@ -15,18 +15,21 @@
      id="layer1"
      transform="translate(-67.215486,-159.19322)">
     <rect
-       style="fill:#37dd49;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-miterlimit:36.2"
+       style="fill:#2aa0ff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.6;stroke-linecap:round;stroke-miterlimit:36.2;stroke-dasharray:none"
        id="rect28"
-       width="67.433334"
-       height="25.099998"
-       x="67.365486"
-       y="159.34322"
-       ry="12.549999" />
-    <circle
-       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-miterlimit:36.2;stroke-dasharray:none"
+       width="67.133331"
+       height="24.799999"
+       x="-134.64882"
+       y="159.49321"
+       ry="12.4"
+       transform="scale(-1,1)" />
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.6;stroke-linecap:round;stroke-miterlimit:36.2;stroke-dasharray:none"
        id="path30"
-       cx="122.30077"
+       cx="-122.10291"
        cy="171.89322"
-       r="9.852232" />
+       rx="9.8084011"
+       ry="9.734477"
+       transform="scale(-1,1)" />
   </g>
 </svg>

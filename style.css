@@ -1,8 +1,19 @@
+:root {
+  --TogSwtImgScalar: 1;
+}
+
 #togswtimg1 {
-  position: relative;
+  position: absolute;
   top: 100;
   left: 100;
   transform-box: fill-box; /* Use element's own bounding box */
   transform-origin: center; /* Scale from center */
   transform: scale(0.25); /* Double size */
 }
+/*#invisbtn1 {
+  position: absolute;
+  top: 100;
+  left: 100;
+  width: 256%;
+  height: 96%;
+}*/

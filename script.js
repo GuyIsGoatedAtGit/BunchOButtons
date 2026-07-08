@@ -8,3 +8,6 @@ function flipImage() {
   // Update the image src
   document.getElementById("togswtimg1").src = images[currentIndex];
 }
+document.getElementById("togswtimg1").onclick = function () {
+  flipImage();
+};
