@@ -13,7 +13,7 @@
 #togswtimg2 {
   position: absolute;
   top: 100;
-  left: 100;
+  left: 200;
   transform-box: fill-box; /* Use element's own bounding box */
   transform-origin: center; /* Scale from center */
   transform: scale(0.25); /* Double size */
